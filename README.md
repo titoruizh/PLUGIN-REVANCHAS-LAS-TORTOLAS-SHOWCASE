@@ -9,7 +9,7 @@
 
   <figure style="margin: 12px 0 0; max-width:450px;">
     <img
-      src="https://github.com/user-attachments/assets/5bebb49b-1383-4dc4-a210-1955fd8232a8"
+      src="assets/uso-plugin.gif"
       alt="Uso del Plugin Revanchas LT"
       width="50%"
       style="border-radius:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); display:block; margin: 0 auto;"
@@ -50,7 +50,7 @@
 - **Zoom Sincronizado**: Coordinación entre visualizadores
 
   
-<img width="1843" height="921" alt="principal" src="https://github.com/user-attachments/assets/e607d8f2-f7fb-4f25-95de-c088dd2c774a" />
+<img width="1843" height="921" alt="principal" src="assets/vista-principal.png" />
 
 
 
